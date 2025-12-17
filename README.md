@@ -1,4 +1,3 @@
-# android-Kotlin-portfolio
 # Fitness Buddy – Android App (Kotlin)
 
 ## Overview
